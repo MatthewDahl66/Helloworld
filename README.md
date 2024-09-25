@@ -1,7 +1,10 @@
 # Table of Contents
 *PROJECT TITLE*
+
 *ADDITIONAL DOCUMENTATION*
+
 *DESCRIPTION*
+
 *VERSIONING*
 ## Project Title
 *hello world*
